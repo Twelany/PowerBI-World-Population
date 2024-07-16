@@ -44,7 +44,7 @@ Stacked column chart /line chart comparing the net migration effect on populatio
 <h5>5: Median Age Distribution:</h5>
 Donut chart showcasing the distribution of median age across different continents.
 
-##Findings and Insights:
+#Findings and Insights:
 
 - Population Trends: Identify regions experiencing rapid population growth versus those with stable or declining populations.
 - Geographical Insights: Understand which continents contribute the most to the global population and how population density varies.
