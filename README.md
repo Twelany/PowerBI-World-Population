@@ -26,6 +26,8 @@ This data was scraped from the following websites:
 - Median age
 - Urban population
 
+![WorldPopulation](https://github.com/user-attachments/assets/761b9a74-9aa7-4949-8a85-c1833478bb2a)
+
 <h3>Questions / Charts:</h3>
 <h5>1: Population Density by Country:</h5>
 Bar or column chart displaying the population density (people per square kilometer) for different countries.
@@ -42,5 +44,5 @@ Stacked column chart /line chart comparing the net migration effect on populatio
 <h5>5: Median Age Distribution:</h5>
 Donut chart showcasing the distribution of median age across different continents.
 
-![WorldPopulation](https://github.com/user-attachments/assets/761b9a74-9aa7-4949-8a85-c1833478bb2a)
+
 
