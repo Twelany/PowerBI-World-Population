@@ -42,4 +42,5 @@ Stacked column chart /line chart comparing the net migration effect on populatio
 <h5>5: Median Age Distribution:</h5>
 Donut chart showcasing the distribution of median age across different continents.
 
+![WorldPopulation](https://github.com/user-attachments/assets/761b9a74-9aa7-4949-8a85-c1833478bb2a)
 
